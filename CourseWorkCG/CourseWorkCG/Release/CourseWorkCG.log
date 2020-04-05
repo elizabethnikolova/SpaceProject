@@ -1,0 +1,58 @@
+﻿  HW4_201216052.cpp
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\Shader.h(54,8): warning C4101: 'infoLog': unreferenced local variable
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\Shader.h(53,7): warning C4101: 'success': unreferenced local variable
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(51,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(53,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(54,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(55,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(56,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(57,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(58,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(59,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(60,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(62,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(65,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(69,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(288,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(294,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(300,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(306,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(312,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(318,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(324,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(330,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(346,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(347,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(349,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(350,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(351,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(352,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(405,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(411,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(412,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(415,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(415,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(426,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(665,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(671,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(672,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(675,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Elizabeth\source\repos\CourseWorkCG\CourseWorkCG\HW4_201216052.cpp(675,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  stdafx.cpp
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp____glutCreateWindowWithExit@8
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutMouseFunc@4
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp____glutInitWithExit@12
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutPostRedisplay@0
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutKeyboardFunc@4
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutSolidSphere@16
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutInitDisplayMode@4
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutTimerFunc@12
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutDisplayFunc@4
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutMainLoop@0
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutMotionFunc@4
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutInitWindowSize@8
+HW4_201216052.obj : error LNK2001: unresolved external symbol __imp__glutSwapBuffers@0
+SDL2main.lib(SDL_windows_main.obj) : error LNK2001: unresolved external symbol __imp__CommandLineToArgvW@8
+C:\Users\Elizabeth\source\repos\CourseWorkCG\Release\CourseWorkCG.exe : fatal error LNK1120: 14 unresolved externals
